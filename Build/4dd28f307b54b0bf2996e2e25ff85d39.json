@@ -1,0 +1,17 @@
+{
+"companyName": "Jerzy Wiśniewski",
+"productName": "Brain structure quiz",
+"productVersion": "0.1",
+"dataUrl": "825cca338ef8ba9a7c1cc56a55cd5c29.unityweb",
+"wasmCodeUrl": "b00278c3832cbe9aacd259d6573a8111.unityweb",
+"wasmFrameworkUrl": "833bf4343d207d849db06ecdbf5aa9eb.unityweb",
+"wasmSymbolsUrl": "038f72dc93908b994a6b18976b220559.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
