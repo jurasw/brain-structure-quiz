@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "brain",
+"companyName": "Jerzy Wiśniewski",
+"productName": "Brain structure quiz",
 "productVersion": "0.1",
 "dataUrl": "brainbuild.data.unityweb",
 "wasmCodeUrl": "brainbuild.wasm.code.unityweb",
