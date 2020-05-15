@@ -1,5 +1,5 @@
 # brain-structure-quiz
-Brain Structure Quiz 🧠
+
 
 🧠 [PLAY](https://jurasw.github.io/brain-structure-quiz/). 🧠
 
