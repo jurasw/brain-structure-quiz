@@ -3,4 +3,4 @@
 
 🧠 [PLAY](https://jurasw.github.io/brain-structure-quiz/) 🧠
 
-**check your knowlage about basic brain structure 📚**
+**check your knowledge about basic brain structure 📚**
