@@ -9,7 +9,8 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"developmentBuild": true,
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.3.13f1"
 }
